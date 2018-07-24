@@ -1,0 +1,20 @@
+{
+  "name": "backstopjs-tests",
+  "version": "1.0.0",
+  "description": "learning backstopjs for visual regression testing",
+  "scripts": {
+    "init": "backstop init",
+    "test": "backstop test",
+    "open": "backstop openReport",
+    "approve": "backstop approve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kapilsethi/backstopjs-tests.git"
+  },
+  "author": "Kapil Sethi",
+  "license": "ISC",
+  "dependencies": {
+    "backstopjs": "^3.5.2"
+  }
+}

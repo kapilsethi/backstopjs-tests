@@ -1,0 +1,9 @@
+# Node Files #
+node_modules/**
+
+package-lock.json
+
+# Bitmaps and reports generated while running the tests #
+backstop_data/bitmaps_test
+backstop_data/html_report
+backstop_data/ci_report
